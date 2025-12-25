@@ -1,3 +1,5 @@
+The first script talks about using open ai api key, open ai end points.
+
 Different kinds of workflows:
 1. Prompt chaining - In > LLM1> Gate > LLM2 > LLM3 > Out
 2. Routing - In > LLM Router > LLM1 or LLM2 or LLM3 > Out
