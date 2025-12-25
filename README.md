@@ -14,3 +14,6 @@ Agents:
 3.) No fixed paths
 
 Human > LLM call > Environment giving feedback and then Stop
+
+2.) The second script talks about calling various LLM models such as open ai's, gemini, groq's gpt oss, ollama's lama 3.2 and evaluating their responses using a superior open ai's model. 
+
